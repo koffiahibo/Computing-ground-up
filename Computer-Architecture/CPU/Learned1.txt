@@ -1,1 +1,2 @@
 -De morgan's Law
+-Sums of products (SOP), and K-maps
